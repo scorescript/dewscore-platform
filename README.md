@@ -82,13 +82,6 @@ If you use this code or methodology in your research, please cite:
 scorescript. (2026). scorescript/dewscore-platform: v1.0.0 (Version DewScore) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21816513
 
 
-## References
-
-Alduchov, O. A., & Eskridge, R. E. (1996). Improved Magnus form approximation 
-of saturation vapor pressure. *Journal of Applied Meteorology*, 35(4), 601–609. 
-https://doi.org/10.1175/1520-0450(1996)035<0601:IMFAOS>2.0.CO;2
-
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
